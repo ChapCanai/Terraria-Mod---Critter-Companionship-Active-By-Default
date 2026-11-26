@@ -1,0 +1,3 @@
+displayName = Critter Companionship Active By Default
+author = YeohKK
+version = 1.0.4

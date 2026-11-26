@@ -1,0 +1,7 @@
+Turns on critter protection even if you don't have the Guide to Critter Companionship.
+
+To turn off critter protection, you can get the Guide to Critter Companionship and deactivate it in either your inventory/void bag, piggy bank, safe, or defender's forge.
+
+If any active book is found in your inventories, or you have none, critter protection will still be on. You can change the config to check which of your inventories for the book.
+
+There is also a config for critter protection against monsters and other NPCs.

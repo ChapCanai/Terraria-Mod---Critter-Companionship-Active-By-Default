@@ -1,0 +1,30 @@
+Configs: {
+	Config: {
+		DisplayName: Config
+
+		ModActive: {
+			Label: Mod Active
+			Tooltip: Toggle the mod
+		}
+
+		CheckPiggyBank: {
+			Label: Check Piggy Bank
+			Tooltip: Should check the Piggy Bank for the Guide to Critter Companionship item?
+		}
+
+		CheckSafe: {
+			Label: Check Safe
+			Tooltip: Should check the Safe for the Guide to Critter Companionship item?
+		}
+
+		CheckDefendersForge: {
+			Label: Check Defender's Forge
+			Tooltip: Should check the Defender's Forge for the Guide to Critter Companionship item?
+		}
+
+		ProtectAgainstNPCs: {
+			Label: Protect Against NPCs
+			Tooltip: Should protect critters against NPCs and their projectiles?
+		}
+	}
+}
